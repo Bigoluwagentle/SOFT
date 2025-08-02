@@ -149,5 +149,8 @@
             cursor: pointer;
             margin-left: 30px;
         }
+        #container{
+            min-height: 60vh;
+        }
     }
 </style>
