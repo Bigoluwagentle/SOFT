@@ -19,7 +19,7 @@
     <div id="container" ref="container">
         <header>
         <div>
-            <h3>SOFT</h3>
+            <img width="50px" src="./chinastore.svg" alt="">
         </div>
         <div id="go">
             <a href="#">HOME</a>
@@ -33,6 +33,9 @@
             <i class="fa-solid fa-bars" id="hamburger" @click="show"></i>
         </div>
     </header>
+    <h2>SHA0XING YUSHENG TEXTILE CO.LTD</h2>
+    <h2>HENAN YUXIU YUAN TEXTILE CLOTHING CO.LTD</h2>
+    <p>Clothing in Wholesales</p>
     </div>
     <section id="mobile">
         <i class="fa-solid fa-xmark" @click="close"></i>
@@ -52,6 +55,18 @@
         padding: 0;
         margin: 0;
         box-sizing: border-box;
+    }
+    h2{
+        text-align: center;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 20px;
+        letter-spacing: 5px;
+    }
+    p{
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+        text-align: center;
     }
     h3{
         font-family: Arial, Helvetica, sans-serif;
@@ -80,6 +95,7 @@
             padding: 20px;
             width: 100%;
             color: white;
+            margin-bottom: 100px;
             div{
                 color: white;
                 font-family: Arial, Helvetica, sans-serif;

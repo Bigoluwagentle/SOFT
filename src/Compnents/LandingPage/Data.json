@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "category": "Trouser",
+    "price": 0,
+    "video": "/img/img/video1.mp4"
+  },
+  {
+    "id": "2",
+    "category": "Shirt",
+    "price": 20000,
+    "video": "/img/img/video2.mp4"
+  },
+  {
+    "id": "3",
+    "category": "Shirt",
+    "price": 10000,
+    "video": "/img/img/video3.mp4"
+  },
+  {
+    "id": "4",
+    "category": "Trouser",
+    "price": 10000,
+    "video": "/img/img/video4.mp4"
+  },
+  {
+    "id": "5",
+    "category": "Polo Shirt",
+    "price": 10000,
+    "video": "/img/img/video5.mp4"
+  }
+]
